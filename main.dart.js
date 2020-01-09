@@ -36797,7 +36797,7 @@ $R:0,
 $S:0}
 F.Jg.prototype={
 $0:function(){var u=this.a,t=u.cy
-if(t<0)u.cy=t-1
+if(t>0)u.cy=t-1
 u.bA()},
 $S:0}
 F.Jz.prototype={
@@ -36818,7 +36818,7 @@ $R:0,
 $S:0}
 F.Je.prototype={
 $0:function(){var u=this.a,t=u.dx
-if(t<0)u.dx=t-1
+if(t>0)u.dx=t-1
 u.bA()},
 $S:0}
 F.Jp.prototype={
@@ -36839,7 +36839,7 @@ $R:0,
 $S:0}
 F.J9.prototype={
 $0:function(){var u=this.a,t=u.ch
-if(t<0)u.ch=t-1
+if(t>0)u.ch=t-1
 u.bA()},
 $S:0}
 F.Jr.prototype={
